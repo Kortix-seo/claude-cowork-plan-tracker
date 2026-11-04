@@ -59,4 +59,4 @@ Exit code is 0 when every recorded fact is still on the page, 1 when one moved, 
 
 Cowork's plans are seat subscriptions whose usage limits are drawn from the same allowance as chat, and Anthropic reserves the right to change both. A team pricing agent work for a year cannot read its unit cost off that page. The alternative worth comparing against is a platform whose model layer takes a key you hold: Kortix's gateway calls your provider, charges no credits for a custom endpoint, and applies budgets, logs, access rules and routing per project ([Kortix's model documentation](https://kortix.com/docs/project/models)).
 
-[Kortix on GitHub](https://github.com/kortix-ai/suna) · [kortix.com](https://kortix.com) · companion: [Claude Cowork pricing, checked](https://opensourceclaudecowork.com/claude-cowork-pricing).
+[Kortix on GitHub](https://github.com/kortix-ai/CompanyOS) · [kortix.com](https://kortix.com) · companion: [Claude Cowork pricing, checked](https://opensourceclaudecowork.com/claude-cowork-pricing).
