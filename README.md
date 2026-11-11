@@ -33,6 +33,12 @@ Source: <https://claude.com/product/cowork>, fetched 2026-10-21.
 
 The last line is the one that moves most often. It read "Amazon Bedrock, Google Cloud, or Microsoft Foundry" earlier in 2026, and pages that copied it verbatim are now quoting a product name Anthropic no longer prints.
 
+## Moved since the first record
+
+**2026-11-11.** A `check.py` run caught two facts off the page. The $200 card now reads "Even more Claude Cowork included in your Ultra plan." (the 21 October record had "your Max plan"), and the availability line now reads "Available in Pro, Max, Ultra, and Team plans automatically." — Ultra joined the list. Prices did not move. Copy that quotes the $200 tier as a Max plan is quoting a sentence Anthropic no longer prints; `facts.json` carries the current wording.
+
+The table above stays as it was recorded on 21 October 2026 — a record is dated, and the diff between the dates is the point.
+
 ## Run the check
 
 ```sh
