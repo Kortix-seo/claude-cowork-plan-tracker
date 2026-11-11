@@ -1,0 +1,22 @@
+{
+  "source": "https://claude.com/product/cowork",
+  "fetched_at": "2026-11-11T05:24:48Z",
+  "text_sha256": "90fb14490ccf656f83bcec0030ded2950fdaf9feb0a1f058596866ee452637dd",
+  "bytes": 1318382,
+  "missing": [
+    {
+      "id": "plan-max-20x",
+      "text": "Even more Claude Cowork included in your Max plan."
+    },
+    {
+      "id": "availability",
+      "text": "Available in Pro, Max, and Team plans automatically. Enterprise plans can opt in."
+    }
+  ],
+  "prices_seen": [
+    "$100",
+    "$17",
+    "$20",
+    "$200"
+  ]
+}
